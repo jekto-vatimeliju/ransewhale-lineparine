@@ -1,0 +1,19 @@
+.fafs, .whale{padding: 20px 0px 0px 20px; overflow: hidden;}
+.fafs:after {clear: both;}
+.fafs:before, .fafs:after,.whale:before,.whale:after  {content: "";display: table;}
+
+
+div.fafs > div { float:left; background-image:url("fafs2.jpg"); width: 73px; height:73px; margin: 15px 0 0 0;}
+div.fafs > p, div.whale > p  { float:left; padding: 0 0 0 10px;}
+
+div.whale > div { float:left; background-image:url("ransewhale2.png"); width: 73px; height:73px; margin: 15px 0 0 0;}
+
+
+
+
+[lang="conlang_lpa"] { font-family: "Fynelipa"; font-size:130%;}
+
+@font-face {
+    font-family: "Fynelipa";
+    src: url("./Fynetliparxe.woff");  format('woff');
+}
