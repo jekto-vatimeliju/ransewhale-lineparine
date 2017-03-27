@@ -4,7 +4,7 @@
 
 
 div.fafs > div { float:left; background-image:url("fafs2.jpg"); width: 73px; height:73px; margin: 15px 0 0 0;}
-div.fafs > p, div.whale > p  { float:left; padding: 0 0 0 10px;}
+div.fafs > p, div.whale > p  { float:left; padding: 0 0 0 10px; width: 700px;}
 
 div.whale > div { float:left; background-image:url("ransewhale2.png"); width: 73px; height:73px; margin: 15px 0 0 0;}
 
