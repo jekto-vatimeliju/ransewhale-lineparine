@@ -11,9 +11,9 @@ div.whale > div { float:left; background-image:url("ransewhale2.png"); width: 73
 
 
 
-[lang="conlang_lpa"] { font-family: "Fynelipa"; font-size:130%; margin: 0 2px;}
+[lang="conlang_lpa"] { font-family: "Cirlipa"; font-size:130%; margin: 0 2px;}
 
 @font-face {
-    font-family: "Fynelipa";
-    src: url("./Fynetliparxe.woff");  format('woff');
+    font-family: "Cirlipa";
+    src: url("./cirlxarli_liparxe_1.woff");  format('woff');
 }
